@@ -32,6 +32,8 @@
 
 ----------------------------------------------------------------------
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/jormoral?1337Badge=off&UM6P=off" alt="jormoral's 42 stats" /></a>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
